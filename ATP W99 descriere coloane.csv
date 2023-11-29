@@ -1,0 +1,214 @@
+QKEY,Unique ID
+INTERVIEW_START_W99,Interview start time
+INTERVIEW_END_W99,Interview end time
+DEVICE_TYPE_W99,The device used in the latest access of the survey link
+LANG_W99,LANG_W99.  Language of interview
+FORM_W99,Wave 99 form assignment
+XTABLET_W99,XTABLET_W99. Flag to identify non-internet households that were provided a tablet
+TECH1_W99,"TECH1_W99. Overall, would you say technology has had a mostly positive effect on our society or a mostly negative effect on our society?"
+SC1_W99,"SC1_W99. Overall, would you say science has had a mostly positive effect on our society or a mostly negative effect on our society?"
+CNCEXC_W99,"CNCEXC_W99. Overall, would you say the increased use of artificial intelligence computer programs in daily life makes you feel…"
+EXCITEOE_W99_OE1,EXCITEOE_W99. What is the main reason you are more excited than concerned about the increased use of artificial intelligence computer programs in daily life? First theme present
+EXCITEOE_W99_OE2,EXCITEOE_W99. What is the main reason you are more excited than concerned about the increased use of artificial intelligence computer programs in daily life? Second theme present
+EXCITEOE_W99_OE3,EXCITEOE_W99. What is the main reason you are more excited than concerned about the increased use of artificial intelligence computer programs in daily life? Third theme present
+EXCITEOE_REFUSED_W99,EXCITEOE_REFUSED_W99. Flag to identify if refused EXCITEOE
+CONCERNOE_W99_OE1,CONCERNOE_W99. What is the main reason you are more concerned than excited about the increased use of artificial intelligence computer programs in daily life? First theme present
+CONCERNOE_W99_OE2,CONCERNOE_W99. What is the main reason you are more concerned than excited about the increased use of artificial intelligence computer programs in daily life? Second theme present
+CONCERNOE_W99_OE3,CONCERNOE_W99. What is the main reason you are more concerned than excited about the increased use of artificial intelligence computer programs in daily life? Third theme present
+CONCERNOE_REFUSED_W99,CONCERNOE_ REFUSED_W99. Flag to identify if refused CONCERNOE
+ALGFAIR_W99,ALGFAIR_W99. Do you think it is possible or not possible for people to design artificial intelligence computer programs that can consistently make fair decisions in complex situations?
+DISCRIM1_a_W99,"DISCRIM1_a_W99. Thinking about the people who design artificial intelligence computer programs, how well do you think they take into account the experiences and views of each of the following?    White adults"
+DISCRIM1_b_W99,"DISCRIM1_b_W99. Thinking about the people who design artificial intelligence computer programs, how well do you think they take into account the experiences and views of each of the following?    Black adults"
+DISCRIM1_c_W99,"DISCRIM1_c_W99. Thinking about the people who design artificial intelligence computer programs, how well do you think they take into account the experiences and views of each of the following?    Hispanic adults"
+DISCRIM1_d_W99,"DISCRIM1_d_W99. Thinking about the people who design artificial intelligence computer programs, how well do you think they take into account the experiences and views of each of the following?    Asian adults"
+DISCRIM1_e_W99,"DISCRIM1_e_W99. Thinking about the people who design artificial intelligence computer programs, how well do you think they take into account the experiences and views of each of the following?    Men"
+DISCRIM1_f_W99,"DISCRIM1_f_W99. Thinking about the people who design artificial intelligence computer programs, how well do you think they take into account the experiences and views of each of the following?    Women"
+POSNEGAI_a_W99,POSNEGAI_a_W99. How excited or concerned would you be if artificial intelligence computer programs could do each of the following?    Know people’s thoughts and behaviors
+POSNEGAI_b_W99,POSNEGAI_b_W99. How excited or concerned would you be if artificial intelligence computer programs could do each of the following?    Perform household chores
+POSNEGAI_c_W99,POSNEGAI_c_W99. How excited or concerned would you be if artificial intelligence computer programs could do each of the following?    Make important life decisions for people
+POSNEGAI_d_W99,POSNEGAI_d_W99. How excited or concerned would you be if artificial intelligence computer programs could do each of the following?    Diagnose medical problems
+POSNEGAI_e_W99,POSNEGAI_e_W99. How excited or concerned would you be if artificial intelligence computer programs could do each of the following?    Perform repetitive workplace tasks
+POSNEGAI_f_W99,POSNEGAI_f_W99. How excited or concerned would you be if artificial intelligence computer programs could do each of the following?    Handle customer service calls
+POSNEGHE_a_W99,POSNEGHE_a_W99. How excited or concerned would you be about potential new techniques that could change human abilities in the following ways?    Slow the aging process to allow the average person to live decades longer
+POSNEGHE_b_W99,POSNEGHE_b_W99. How excited or concerned would you be about potential new techniques that could change human abilities in the following ways?    Allow some people to far more quickly and accurately process information
+POSNEGHE_c_W99,POSNEGHE_c_W99. How excited or concerned would you be about potential new techniques that could change human abilities in the following ways?    Prevent some people from getting serious diseases or health conditions
+POSNEGHE_d_W99,POSNEGHE_d_W99. How excited or concerned would you be about potential new techniques that could change human abilities in the following ways?    Allow some people greatly increased strength for lifting heavy objects
+POSNEGHE_e_W99,POSNEGHE_e_W99. How excited or concerned would you be about potential new techniques that could change human abilities in the following ways?    Allow some people to see shapes and patterns in crowded spaces far beyond what the typical person can see today
+POSNEGHE_f_W99,POSNEGHE_f_W99. How excited or concerned would you be about potential new techniques that could change human abilities in the following ways?    Allow some people to hear sounds far beyond what the typical person can hear today
+SMALG1_W99,SMALG1_W99. How much have you heard or read about computer programs used by social media companies to find false information on their sites?
+SMALG2_W99,SMALG2_W99. Do you think widespread use of computer programs by social media companies to find false information on their sites has been a…
+SMALG3_W99,SMALG3_W99. Have you ever seen information on social media sites that has been flagged or labeled as false?
+SMALG4_a_W99,SMALG4_a_W99. Do you think widespread use of computer programs by social media companies to find false information is making the following happen on their sites?    News and information are being wrongly removed
+SMALG4_b_W99,SMALG4_b_W99. Do you think widespread use of computer programs by social media companies to find false information is making the following happen on their sites?    Political viewpoints are being censored
+SMALG4_c_W99,SMALG4_c_W99. Do you think widespread use of computer programs by social media companies to find false information is making the following happen on their sites?    It is getting easier to find trustworthy information
+SMALG4_d_W99,SMALG4_d_W99. Do you think widespread use of computer programs by social media companies to find false information is making the following happen on their sites?    It is allowing people to have more meaningful conversations
+SMALG5_W99,SMALG5_W99. How much control do you think users have over the things they see on social media sites?
+SMALG6_W99,"SMALG6_W99. Which comes closer to your view, even if neither is exactly right? When using computer programs to find false information on their sites, social media companies should give priority to…"
+SMALG7_W99,SMALG7_W99. How much confidence do you have that social media companies will use computer programs appropriately to determine which information on their sites is false?
+SMALG8_W99,"SMALG8_W99. As the use of computer programs by social media companies to find false information on their sites has become widespread, which is your greater concern?"
+SMALG9_a_W99,SMALG9_a_W99. How much of a role do you think each of the following groups should play in setting standards for how social media companies use computer programs to find false information on their sites?    Federal government agencies
+SMALG9_b_W99,SMALG9_b_W99. How much of a role do you think each of the following groups should play in setting standards for how social media companies use computer programs to find false information on their sites?    The social media companies that develop these comp
+SMALG9_c_W99,SMALG9_c_W99. How much of a role do you think each of the following groups should play in setting standards for how social media companies use computer programs to find false information on their sites?    Social media users
+SMALG10_a_W99,"SMALG10_a_W99. When creating computer programs to find false information, how important do you think it is for social media companies to include people of different…    Genders"
+SMALG10_b_W99,"SMALG10_b_W99. When creating computer programs to find false information, how important do you think it is for social media companies to include people of different…    Racial and ethnic groups"
+SMALG10_c_W99,"SMALG10_c_W99. When creating computer programs to find false information, how important do you think it is for social media companies to include people of different…    Political viewpoints"
+SMALG11_W99,SMALG11_W99. Do you think the decisions made by social media companies about what information is false should be…
+SMALG12_W99,"SMALG12_W99. When it comes to finding false information on their sites, do you think computer programs used by social media companies do..."
+SMALG13_a_W99,SMALG13_a_W99. Would you favor or oppose the use of computer programs to make final decisions about each of the following?    Which people should be approved for mortgages
+SMALG13_b_W99,SMALG13_b_W99. Would you favor or oppose the use of computer programs to make final decisions about each of the following?    Which patients should get a medical treatment
+SMALG13_c_W99,SMALG13_c_W99. Would you favor or oppose the use of computer programs to make final decisions about each of the following?    Which job applicants should move on to a next round of interviews
+SMALG13_d_W99,SMALG13_d_W99. Would you favor or oppose the use of computer programs to make final decisions about each of the following?    Which people should be good candidates for parole
+FACEREC1_W99,FACEREC1_W99. How much have you heard or read about facial recognition technology by police?
+FACEREC2_W99,FACEREC2_W99. Do you think the widespread use of facial recognition technology by police would be a…
+FACEREC3_a_W99,"FACEREC3_a_W99. If the use of facial recognition technology by police becomes widespread, do you think each of the following would happen? The police would…    Make more false arrests"
+FACEREC3_b_W99,"FACEREC3_b_W99. If the use of facial recognition technology by police becomes widespread, do you think each of the following would happen? The police would…    Solve crimes more quickly and efficiently"
+FACEREC3_c_W99,"FACEREC3_c_W99. If the use of facial recognition technology by police becomes widespread, do you think each of the following would happen? The police would…    Use the technology to monitor Black and Hispanic neighborhoods much more often than other neighb"
+FACEREC3_d_W99,"FACEREC3_d_W99. If the use of facial recognition technology by police becomes widespread, do you think each of the following would happen? The police would…    Find more missing persons"
+FACEREC3_e_W99,"FACEREC3_e_W99. If the use of facial recognition technology by police becomes widespread, do you think each of the following would happen? The police would…    Be able to track everyone’s location at all times"
+FACEREC3_f_W99,"FACEREC3_f_W99. If the use of facial recognition technology by police becomes widespread, do you think each of the following would happen? The police would…    Be better able to keep crowds under control"
+FACEREC4_W99,FACEREC4_W99. Do you think the widespread use of facial recognition technology by police will make policing…
+FACEREC5_W99,"FACEREC5_W99. If the use of facial recognition technology by police becomes widespread, do you think crime would…"
+FACEREC6_a_W99,FACEREC6_a_W99. How much of a role do you think each of the following groups should have in setting standards for how facial recognition technology is used by police?    Federal government agencies
+FACEREC6_b_W99,FACEREC6_b_W99. How much of a role do you think each of the following groups should have in setting standards for how facial recognition technology is used by police?    Companies that develop facial recognition technology
+FACEREC6_c_W99,FACEREC6_c_W99. How much of a role do you think each of the following groups should have in setting standards for how facial recognition technology is used by police?    Ordinary people
+FACEREC6_d_W99,FACEREC6_d_W99. How much of a role do you think each of the following groups should have in setting standards for how facial recognition technology is used by police?    Police departments that use facial recognition technology
+FACEREC7_W99,"FACEREC7_W99. If the use of facial recognition technology by police becomes widespread, which is your greater concern?"
+FACEREC8_a_W99,"FACEREC8_a_W99. Would the use of facial recognition technology by police be more acceptable, less acceptable or would it make no difference if…    People without criminal records could opt-out of facial recognition databases"
+FACEREC8_b_W99,"FACEREC8_b_W99. Would the use of facial recognition technology by police be more acceptable, less acceptable or would it make no difference if…    People were notified of the public events and public spaces that were scanned for facial images"
+FACEREC8_c_W99,"FACEREC8_c_W99. Would the use of facial recognition technology by police be more acceptable, less acceptable or would it make no difference if…    Police officers were trained in how facial recognition systems can make errors in identifying people before t"
+FACEREC9_W99,"FACEREC9_W99. Which of the following statements best describes your views, even if neither is exactly right?"
+FACEREC10_W99,"FACEREC10_W99. If a facial recognition program said that someone was involved in a crime, should that be good enough evidence for police to arrest them, even if there was a small chance the program was wrong?"
+FACEREC11_a_W99,FACEREC11_a_W99. Would you consider each of the following uses of facial recognition technology by police to be acceptable or not acceptable? Scanning people …    At public protests
+FACEREC11_b_W99,FACEREC11_b_W99. Would you consider each of the following uses of facial recognition technology by police to be acceptable or not acceptable? Scanning people …    As they enter large events like concerts to see who is in the crowd
+FACEREC11_c_W99,FACEREC11_c_W99. Would you consider each of the following uses of facial recognition technology by police to be acceptable or not acceptable? Scanning people …    As they walk down the street
+FACEREC12_a_W99,FACEREC12_a_W99. Would you favor or oppose the use of facial recognition technology for each of the following purposes?    Companies automatically tracking the attendance of their employees
+FACEREC12_b_W99,FACEREC12_b_W99. Would you favor or oppose the use of facial recognition technology for each of the following purposes?    Social media sites automatically identifying people in photos
+FACEREC12_c_W99,FACEREC12_c_W99. Would you favor or oppose the use of facial recognition technology for each of the following purposes?    Retail stores enhancing credit card payment security by confirming account holders at checkout
+FACEREC12_d_W99,FACEREC12_d_W99. Would you favor or oppose the use of facial recognition technology for each of the following purposes?    Apartment buildings tracking who enters or leaves their buildings
+DCARS1_W99,DCARS1_W99. How much have you heard or read about driverless passenger vehicles?
+DCARS2_W99,DCARS2_W99. Do you think widespread use of driverless passenger vehicles would be a…
+DCARS3_W99,"DCARS3_W99. Would you personally want to ride in a driverless passenger vehicle, if you had the opportunity?"
+DCARS4_a_W99,"DCARS4_a_W99. If the use of driverless passenger vehicles becomes widespread, do you think each of the following would happen?    Older adults and people with disabilities will be able to live more independently"
+DCARS4_b_W99,"DCARS4_b_W99. If the use of driverless passenger vehicles becomes widespread, do you think each of the following would happen?    Many people who make their living by driving others or delivering things with passenger vehicles would lose their jobs"
+DCARS4_c_W99,"DCARS4_c_W99. If the use of driverless passenger vehicles becomes widespread, do you think each of the following would happen?    Getting from place to place would be less stressful"
+DCARS4_d_W99,"DCARS4_d_W99. If the use of driverless passenger vehicles becomes widespread, do you think each of the following would happen?    The computer systems in driverless passenger vehicles would be easily hacked in ways that put safety at risk"
+DCARS5_W99,"DCARS5_W99. If the use of driverless passenger vehicles becomes widespread, do you think that would…"
+DCARS6_W99,"DCARS6_W99. If the use of driverless passenger vehicles becomes widespread, do you think that would…"
+DCARS7_W99,"DCARS7_W99. In the case of an unavoidable accident, should the computer systems guiding driverless vehicles be designed to prioritize the safety of…"
+DCARS8_a_W99,DCARS8_a_W99. How much of a role do you think each of the following groups should have in setting standards for how driverless passenger vehicles are used?    Federal government agencies
+DCARS8_b_W99,DCARS8_b_W99. How much of a role do you think each of the following groups should have in setting standards for how driverless passenger vehicles are used?    The companies that develop driverless passenger vehicles
+DCARS8_c_W99,DCARS8_c_W99. How much of a role do you think each of the following groups should have in setting standards for how driverless passenger vehicles are used?    The people who use driverless passenger vehicles
+DCARS8_d_W99,DCARS8_d_W99. How much of a role do you think each of the following groups should have in setting standards for how driverless passenger vehicles are used?    The dealerships that sell driverless passenger vehicles
+DCARS9_W99,"DCARS9_W99. If the use of driverless passenger vehicles becomes widespread, which is your greater concern?"
+DCARS10_W99,DCARS10_W99. Which statement comes closer to your view when it comes to ensuring the safety and effectiveness of driverless passenger vehicles? Driverless passenger vehicles should be tested using…
+DCARS11_a_W99,"DCARS11_a_W99. Would the use of driverless passenger vehicles be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    They were required to travel in dedicated lanes"
+DCARS11_b_W99,"DCARS11_b_W99. Would the use of driverless passenger vehicles be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    They were required to be labeled as driverless in order to be easily identified"
+DCARS11_c_W99,"DCARS11_c_W99. Would the use of driverless passenger vehicles be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    If regular reports about the number of accidents caused by them were required"
+DCARS11_d_W99,"DCARS11_d_W99. Would the use of driverless passenger vehicles be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    If someone in the vehicle was required to have a driver’s license"
+DCARS12_W99,"DCARS12_W99. If the use of driverless passenger vehicles became widespread, how comfortable would you feel sharing the road with them?"
+DCARS13_a_W99,DCARS13_a_W99. Would you favor or oppose the use of this technology in each of the following purposes?    Taxis and ride-sharing vehicles
+DCARS13_b_W99,DCARS13_b_W99. Would you favor or oppose the use of this technology in each of the following purposes?    18-wheeler trucks
+DCARS13_c_W99,DCARS13_c_W99. Would you favor or oppose the use of this technology in each of the following purposes?    Buses for public transportation
+DCARS13_d_W99,DCARS13_d_W99. Would you favor or oppose the use of this technology in each of the following purposes?    Delivery vehicles
+BCHIP1_W99,BCHIP1_W99. How much have you heard or read about computer chip implants in the brain that could make it possible for people to far more quickly and accurately process information?
+BCHIP2_W99,BCHIP2_W99. Do you think widespread use of computer chip implants in the brain allowing people to far more quickly and accurately process information would be a…
+BCHIP3_W99,"BCHIP3_W99. Would you personally want a computer chip implant in the brain, allowing you to far more quickly and accurately process information, if you had the opportunity?"
+BCHIP4_a_W99,BCHIP4_a_W99. If the use of computer chip implants in the brain becomes widespread…do you think each of the following would happen?    People who have these computer chip implants in the brain would be more productive at their jobs
+BCHIP4_b_W99,BCHIP4_b_W99. If the use of computer chip implants in the brain becomes widespread…do you think each of the following would happen?    These computer chip implants in the brain would be used before we fully understand how they affect people’s health
+BCHIP4_c_W99,BCHIP4_c_W99. If the use of computer chip implants in the brain becomes widespread…do you think each of the following would happen?    The use of these computer chip implants in the brain would lead to new innovation and problem solving in society
+BCHIP4_d_W99,BCHIP4_d_W99. If the use of computer chip implants in the brain becomes widespread…do you think each of the following would happen?    These techniques would go too far eliminating natural differences between people in society
+BCHIP5_W99,"BCHIP5_W99. If the use of computer chip implants in the brain becomes widespread, allowing people to far more quickly and accurately process information, which statement better describes how you would feel about this development?"
+BCHIP6_W99,"BCHIP6_W99. If the use of computer chip implants in the brain becomes widespread, allowing people to far more quickly and accurately process information, do you think most people would…"
+BCHIP7_W99,"BCHIP7_W99. If the use of computer chip implants in the brain becomes widespread, allowing people to far more quickly and accurately process information, do you think people’s judgments and decision-making would be…"
+BCHIP8_W99,"BCHIP8_W99. If the use of computer chip implants in the brain becomes widespread, allowing people to far more quickly and accurately process information, do you think it would…"
+BCHIP9_a_W99,BCHIP9_a_W99. If the use of computer chip implants in the brain becomes widespread…how often do you think each of these potential problems would happen?    The computer chip implant would malfunction
+BCHIP9_b_W99,BCHIP9_b_W99. If the use of computer chip implants in the brain becomes widespread…how often do you think each of these potential problems would happen?    Hackers would gain access to people’s computer chip information without consent
+BCHIP9_c_W99,BCHIP9_c_W99. If the use of computer chip implants in the brain becomes widespread…how often do you think each of these potential problems would happen?    The computer chip implant would cause unwanted changes to the way the brain functions
+BCHIP10_a_W99,BCHIP10_a_W99. How much of a role do you think each of the following groups should have in setting standards for how computer chip implants in the brain are used?    Federal government agencies
+BCHIP10_b_W99,BCHIP10_b_W99. How much of a role do you think each of the following groups should have in setting standards for how computer chip implants in the brain are used?    The companies that develop these computer chip implants
+BCHIP10_c_W99,BCHIP10_c_W99. How much of a role do you think each of the following groups should have in setting standards for how computer chip implants in the brain are used?    The people getting these computer chip implants
+BCHIP10_d_W99,BCHIP10_d_W99. How much of a role do you think each of the following groups should have in setting standards for how computer chip implants in the brain are used?    The medical doctors who implant the computer chips in the brain
+BCHIP11_W99,"BCHIP11_W99. If the use of computer chip implants in the brain becomes widespread, allowing people to far more quickly and accurately process information, which is your greater concern?"
+BCHIP12_W99,BCHIP12_W99. Which statement comes closer to your view when it comes to ensuring the safety and effectiveness of computer chip implants in the brain? Implanted computer chips in the brain should be tested using…
+BCHIP13_a_W99,"BCHIP13_a_W99. Would the use of computer chip implants in the brain be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    If people could turn on and off the effects"
+BCHIP13_b_W99,"BCHIP13_b_W99. Would the use of computer chip implants in the brain be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    If it could be put in place without surgery"
+BCHIP14_a_W99,BCHIP14_a_W99. Would you favor or oppose the use of computer chips implants in the brain for each of the following purposes?    To treat age-related decline in mental abilities
+BCHIP14_b_W99,BCHIP14_b_W99. Would you favor or oppose the use of computer chips implants in the brain for each of the following purposes?    To allow increased movement for people who are paralyzed
+BCHIP14_c_W99,BCHIP14_c_W99. Would you favor or oppose the use of computer chips implants in the brain for each of the following purposes?    To make it possible for thoughts in the brain to search content on the internet without typing
+BCHIP14_d_W99,"BCHIP14_d_W99. Would you favor or oppose the use of computer chips implants in the brain for each of the following purposes?    To translate thoughts in the brain, without speaking, into text on a screen"
+GENEV1_W99,GENEV1_W99. How much have you heard or read about using gene editing to greatly reduce a baby’s risk of developing serious diseases or health conditions over their lifetime?
+GENEV2_W99,GENEV2_W99. Do you think the widespread use of gene editing to greatly reduce a baby’s risk of developing serious diseases or health conditions over their lifetime would be a…
+GENEV3_W99,"GENEV3_W99. If gene editing to greatly reduce a baby’s risk of developing serious diseases or health conditions over their lifetime were available, is this something you would want?"
+GENEV4_a_W99,"GENEV4_a_W99. If the use of gene editing to greatly reduce a baby’s risk…becomes widespread, do you think each of the following would happen?    Even if gene editing is used appropriately in some cases, others would use these techniques in ways that are mo"
+GENEV4_b_W99,"GENEV4_b_W99. If the use of gene editing to greatly reduce a baby’s risk…becomes widespread, do you think each of the following would happen?    These gene editing techniques would help people live longer and better quality lives"
+GENEV4_c_W99,"GENEV4_c_W99. If the use of gene editing to greatly reduce a baby’s risk…becomes widespread, do you think each of the following would happen?    Development of these gene editing techniques would pave the way for new medical advances that benefit society a"
+GENEV4_d_W99,"GENEV4_d_W99. If the use of gene editing to greatly reduce a baby’s risk…becomes widespread, do you think each of the following would happen?    These gene editing techniques would go too far eliminating natural differences between people in society"
+GENEV5_W99,"GENEV5_W99. If the use of gene editing to greatly reduce a baby’s risk of developing serious diseases or health conditions over their lifetime becomes widespread, which statement better describes how you would feel about this development?"
+GENEV6_W99,"GENEV6_W99. If the use of gene editing to greatly reduce a baby’s risk of developing serious diseases or health conditions over their lifetime becomes widespread, do you think most parents would…"
+GENEV7_W99,"GENEV7_W99. If the use of gene editing to greatly reduce a baby’s risk of developing serious diseases or health conditions over their lifetime becomes widespread, do you think people’s quality of life would be…"
+GENEV8_W99,"GENEV8_W99. If the use of gene editing to greatly reduce a baby’s risk of developing serious diseases or health conditions over their lifetime becomes widespread, do you think it would…"
+GENEV9_a_W99,GENEV9_a_W99. How much of a role do you think each of the following groups should have in setting standards for how gene editing techniques are used?    Federal government agencies
+GENEV9_b_W99,GENEV9_b_W99. How much of a role do you think each of the following groups should have in setting standards for how gene editing techniques are used?    The companies that develop these gene editing techniques
+GENEV9_c_W99,GENEV9_c_W99. How much of a role do you think each of the following groups should have in setting standards for how gene editing techniques are used?    People who get these gene editing techniques
+GENEV9_d_W99,GENEV9_d_W99. How much of a role do you think each of the following groups should have in setting standards for how gene editing techniques are used?    The medical scientists who provide these gene editing techniques
+GENEV10_W99,"GENEV10_W99. If the use of gene editing to greatly reduce a baby’s risk of serious diseases or health conditions over their lifetime becomes widespread, which is your greater concern?"
+GENEV11_W99,GENEV11_W99. Which statement comes closer to your views when it comes to ensuring the safety and effectiveness of these gene editing techniques? Gene editing to greatly reduce a baby’s risk of serious diseases or health conditions over their lifetime shoul
+GENEV12_a_W99,"GENEV12_a_W99. Would the use of gene editing to greatly reduce a baby’s risk…be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    If people could choose which diseases and conditions are affected"
+GENEV12_b_W99,"GENEV12_b_W99. Would the use of gene editing to greatly reduce a baby’s risk…be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    If the effects were limited to that person and NOT passed on to futur"
+GENEV12_c_W99,"GENEV12_c_W99. Would the use of gene editing to greatly reduce a baby’s risk…be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    If gene editing were only used in adults who could consent to the pro"
+GENEV13_a_W99,GENEV13_a_W99. Would you favor or oppose the use of gene editing for each of the following purposes?    To change a baby’s physical characteristics to make them more attractive
+GENEV13_b_W99,GENEV13_b_W99. Would you favor or oppose the use of gene editing for each of the following purposes?    To treat serious diseases or health conditions that a person currently has
+EXOV1_W99,EXOV1_W99. How much have you heard or read about robotic exoskeletons with built-in artificial intelligence computer systems for manual labor?
+EXOV2_W99,EXOV2_W99. Do you think widespread use of robotic exoskeletons would be a…
+EXOV3_W99,"EXOV3_W99. Would you personally want to use a robotic exoskeleton with a built-in artificial intelligence computer system for manual labor, if you had the opportunity?"
+EXOV4_a_W99,"EXOV4_a_W99. If the use of robotic exoskeletons for manual labor becomes widespread, do you think each of the following would happen?    Employers would need fewer workers and lay off part of their work force"
+EXOV4_b_W99,"EXOV4_b_W99. If the use of robotic exoskeletons for manual labor becomes widespread, do you think each of the following would happen?    Workers would experience fewer workplace injuries"
+EXOV4_c_W99,"EXOV4_c_W99. If the use of robotic exoskeletons for manual labor becomes widespread, do you think each of the following would happen?    Workers would lose strength by relying too much on exoskeletons"
+EXOV4_d_W99,"EXOV4_d_W99. If the use of robotic exoskeletons for manual labor becomes widespread, do you think each of the following would happen?    More people would be able to do manual labor jobs"
+EXOV5_W99,"EXOV5_W99. If the use of robotic exoskeletons for manual labor becomes widespread, which statement better describes how you would feel about this development?"
+EXOV6_W99,"EXOV6_W99. If the use of robotic exoskeletons for manual labor becomes widespread, do you think conditions for workers would be…"
+EXOV7_W99,"EXOV7_W99. Thinking about the manufacturing of robotic exoskeletons, which of the following statements comes closest to your view, even if neither is exactly right?"
+EXOV8_a_W99,EXOV8_a_W99. How much of a role do you think each of the following groups should have in setting standards for how robotic exoskeletons for manual labor are used?    Federal government agencies
+EXOV8_b_W99,EXOV8_b_W99. How much of a role do you think each of the following groups should have in setting standards for how robotic exoskeletons for manual labor are used?    The companies that develop robotic exoskeletons
+EXOV8_c_W99,EXOV8_c_W99. How much of a role do you think each of the following groups should have in setting standards for how robotic exoskeletons for manual labor are used?    The workers themselves
+EXOV8_d_W99,EXOV8_d_W99. How much of a role do you think each of the following groups should have in setting standards for how robotic exoskeletons for manual labor are used?    Employers
+EXOV9_W99,"EXOV9_W99. If the use of robotic exoskeletons for manual labor becomes widespread, which is your greater concern?"
+EXOV10_W99,EXOV10_W99. Which statement comes closer to your view when it comes to ensuring the safety and effectiveness of robotic exoskeletons for manual labor? Robotic exoskeletons should be tested using…
+EXOV11_a_W99,"EXOV11_a_W99. Would the use of a robotic exoskeleton…be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    If employers could only use robotic exoskeletons to improve worker safety, rather than to inc"
+EXOV11_b_W99,"EXOV11_b_W99. Would the use of a robotic exoskeleton…be more acceptable, less acceptable or would it make no difference in each of the following circumstances?    If people were required to be licensed to operate robotic exoskeletons"
+EXOV12_a_W99,EXOV12_a_W99. Would you favor or oppose the use of robotic exoskeletons for each of the following purposes?    To improve the quality of life for people with physical limitations
+EXOV12_b_W99,EXOV12_b_W99. Would you favor or oppose the use of robotic exoskeletons for each of the following purposes?    To give people greater strength for recreational activities
+EXOV12_c_W99,EXOV12_c_W99. Would you favor or oppose the use of robotic exoskeletons for each of the following purposes?    To increase the ability of firefighters to lift in emergency situations
+F_RELCOM3CAT,religious commitment – 3 categories
+F_METRO,Metropolitan area indicator
+F_CREGION,Census region
+F_CDIVISION,Census division
+F_AGECAT,Age category
+F_GENDER,Gender
+F_EDUCCAT,Education level category
+F_EDUCCAT2,Education level category 2
+F_HISP,Hispanic identification
+F_HISP_ORIGIN,Hispanic origin
+F_YEARSINUS,Years lived in U.S. (excluding Puerto Rico or other U.S. territories)
+F_RACECMB,Combining Race
+F_RACETHNMOD,Race-Ethnicity
+F_CITIZEN,Citizenship
+F_BIRTHPLACE,Birthplace
+F_MARITAL,Marital status
+F_RELIG,Religion
+F_BORN,Born-again or evangelical Christian
+F_RELIGCAT1,Condensed 4-way religion variable
+F_ATTEND,Religious service attendance
+F_RELIMP,RELIMP. How important is religion in your life?
+F_PRAY,"PRAY. Outside of attending religious services, how often do you pray?"
+F_PARTY_FINAL,Party
+F_PARTYLN_FINAL,Party lean
+F_PARTYSUM_FINAL,Party summary
+F_PARTYSUMIDEO_FINAL,Combining ideology and party identification
+F_INC_SDT1,Family income
+F_REG,Registered voter
+F_IDEO,Ideology
+F_INTFREQ,Frequency of internet use
+F_VOLSUM,Volunteerism status
+F_INC_TIER2,Income tier 3-way
+WEIGHT_W99,Wave 99 weight
